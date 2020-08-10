@@ -1,3 +1,18 @@
 // Place all the styles related to the pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+.letters {
+  padding: 10px 0;
+}
+
+.letters  div {
+  display: inline-block;
+  text-align: center;
+  font-size: 24px;
+  color: #FFFFFF;
+  background-color: #267DF6;
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+  padding: 10px;
+ }
